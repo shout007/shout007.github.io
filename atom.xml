@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-29T07:59:05.758Z</updated>
+  <updated>2018-01-13T13:12:18.217Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,67 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>text</title>
-    <link href="http://yoursite.com/2017/12/29/text/"/>
-    <id>http://yoursite.com/2017/12/29/text/</id>
+    <title>保兴发酵罐使用说明</title>
+    <link href="http://yoursite.com/2018/01/13/%E4%BF%9D%E5%85%B4%E5%8F%91%E9%85%B5%E7%BD%90%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
+    <id>http://yoursite.com/2018/01/13/保兴发酵罐使用说明/</id>
+    <published>2018-01-13T12:52:35.000Z</published>
+    <updated>2018-01-13T13:12:18.217Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p><em>（本文由浙江工商大学食品与生物工程学院陈敏实验室提供）</em></p>
+<h2 id="步骤："><a href="#步骤：" class="headerlink" title="步骤："></a>步骤：</h2><ol>
+<li>打开蒸汽发生器，检查所有阀门是否关死；</li>
+<li>打开发酵罐，向其内加入培养基；</li>
+<li>关上发酵罐，做好灭菌前准备，装上钟罩，进入灭菌流程。</li>
+</ol>
+<h2 id="灭菌前准备："><a href="#灭菌前准备：" class="headerlink" title="灭菌前准备："></a>灭菌前准备：</h2><ol>
+<li>pH电极的标定——在控制面板上选择标定，点击PH标定，采用两点法校准（先将PH电极放入6.86校准液中，点击开始，待稳定后点击结束，再将PH电极插入4.00校准液中，点击开始，待稳定后点击结束，进行回测，如若不准，重新校准）；</li>
+<li>溶氧电极的标定——灭菌前标定，饱和亚硫酸钾中标零点，接种前将转速和通气量拉至最大标100%；</li>
+<li>空气进气口夹死，用纱布和铝箔纸包上空气过滤膜，尾气口用4层纱布和牛皮纸包上。</li>
+</ol>
+<h2 id="灭菌操作："><a href="#灭菌操作：" class="headerlink" title="灭菌操作："></a>灭菌操作：</h2><ol>
+<li>打开阀门9，旋至最大，关闭阀门11，同时打开阀门12，阀门14，选择温度控制为手动控制，进行升温；</li>
+<li>当温度升至90℃时，打开阀门15和底阀，进行底部通蒸汽；</li>
+<li>当温度升到121℃时，开始计时，通过控制底阀和阀门12，使温度保持在121℃左右，灭菌20min。</li>
+</ol>
+<h2 id="灭菌结束："><a href="#灭菌结束：" class="headerlink" title="灭菌结束："></a>灭菌结束：</h2><ol>
+<li>灭菌结束后，先关闭蒸汽发生器，然后关闭阀门9、阀门14和阀门15以及底阀，打开阀门11，将温度控制设定为自动，进行降温操作；</li>
+<li>当温度降至105℃以下时，打开阀门10，排出钟罩中内的蒸汽冷凝水，排完后关闭阀门10；</li>
+<li>当钟罩内压力降至0时，可以卸下钟罩；</li>
+<li>连接好空气进气口，打开阀门1、2、3、4，控制适宜的压力，装上电机，开启搅拌，设置合适的转速，保温过夜。</li>
+</ol>
+<h2 id="接种操作："><a href="#接种操作：" class="headerlink" title="接种操作："></a>接种操作：</h2><ol>
+<li>接种前先取样进行镜检，待确定没有染杂的情况下进行接种操作；</li>
+<li>点燃火焰圈，放置于接种口处，打开接种口，倒入种子液，加入消泡剂；</li>
+<li>补水至适宜的量，选择合适的转速、通气量。</li>
+</ol>
+<hr>
+<h3 id="附图："><a href="#附图：" class="headerlink" title="附图："></a>附图：</h3><p><img src="http://om50jwugm.bkt.clouddn.com/20180113%20%281%29.PNG" alt=""><br><img src="http://om50jwugm.bkt.clouddn.com/20180113%20%282%29.PNG" alt=""><br><img src="http://om50jwugm.bkt.clouddn.com/20180113%20%283%29.PNG" alt=""><br><img src="http://om50jwugm.bkt.clouddn.com/20180113%20%284%29.PNG" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;em&gt;（本文由浙江工商大学食品与生物工程学院陈敏实验室提供）&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;步骤：&quot;&gt;&lt;a href=&quot;#步骤：&quot; class=&quot;headerlink&quot;
+    
+    </summary>
+    
+    
+      <category term="大学" scheme="http://yoursite.com/tags/%E5%A4%A7%E5%AD%A6/"/>
+    
+      <category term="实验室" scheme="http://yoursite.com/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+    
+      <category term="保兴发酵罐" scheme="http://yoursite.com/tags/%E4%BF%9D%E5%85%B4%E5%8F%91%E9%85%B5%E7%BD%90/"/>
+    
+      <category term="搬运" scheme="http://yoursite.com/tags/%E6%90%AC%E8%BF%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2017/12/29/test/"/>
+    <id>http://yoursite.com/2017/12/29/test/</id>
     <published>2017-12-29T07:59:05.000Z</published>
-    <updated>2017-12-29T07:59:05.758Z</updated>
+    <updated>2018-01-13T12:53:09.407Z</updated>
     
     <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script>]]></content>
     
