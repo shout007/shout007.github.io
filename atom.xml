@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-13T13:12:18.217Z</updated>
+  <updated>2018-01-22T06:44:13.753Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2018/01/13/%E4%BF%9D%E5%85%B4%E5%8F%91%E9%85%B5%E7%BD%90%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
     <id>http://yoursite.com/2018/01/13/保兴发酵罐使用说明/</id>
     <published>2018-01-13T12:52:35.000Z</published>
-    <updated>2018-01-13T13:12:18.217Z</updated>
+    <updated>2018-01-22T06:44:13.753Z</updated>
     
     <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p><em>（本文由浙江工商大学食品与生物工程学院陈敏实验室提供）</em></p>
 <h2 id="步骤："><a href="#步骤：" class="headerlink" title="步骤："></a>步骤：</h2><ol>
@@ -28,6 +28,7 @@
 <li>打开发酵罐，向其内加入培养基；</li>
 <li>关上发酵罐，做好灭菌前准备，装上钟罩，进入灭菌流程。</li>
 </ol>
+<a id="more"></a>
 <h2 id="灭菌前准备："><a href="#灭菌前准备：" class="headerlink" title="灭菌前准备："></a>灭菌前准备：</h2><ol>
 <li>pH电极的标定——在控制面板上选择标定，点击PH标定，采用两点法校准（先将PH电极放入6.86校准液中，点击开始，待稳定后点击结束，再将PH电极插入4.00校准液中，点击开始，待稳定后点击结束，进行回测，如若不准，重新校准）；</li>
 <li>溶氧电极的标定——灭菌前标定，饱和亚硫酸钾中标零点，接种前将转速和通气量拉至最大标100%；</li>
@@ -55,19 +56,23 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;em&gt;（本文由浙江工商大学食品与生物工程学院陈敏实验室提供）&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;步骤：&quot;&gt;&lt;a href=&quot;#步骤：&quot; class=&quot;headerlink&quot;
+      &lt;p&gt;&lt;em&gt;（本文由浙江工商大学食品与生物工程学院陈敏实验室提供）&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;步骤：&quot;&gt;&lt;a href=&quot;#步骤：&quot; class=&quot;headerlink&quot; title=&quot;步骤：&quot;&gt;&lt;/a&gt;步骤：&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;打开蒸汽发生器，检查所有阀门是否关死；&lt;/li&gt;
+&lt;li&gt;打开发酵罐，向其内加入培养基；&lt;/li&gt;
+&lt;li&gt;关上发酵罐，做好灭菌前准备，装上钟罩，进入灭菌流程。&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
+    
+      <category term="搬运" scheme="http://yoursite.com/tags/%E6%90%AC%E8%BF%90/"/>
     
       <category term="大学" scheme="http://yoursite.com/tags/%E5%A4%A7%E5%AD%A6/"/>
     
       <category term="实验室" scheme="http://yoursite.com/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
     
       <category term="保兴发酵罐" scheme="http://yoursite.com/tags/%E4%BF%9D%E5%85%B4%E5%8F%91%E9%85%B5%E7%BD%90/"/>
-    
-      <category term="搬运" scheme="http://yoursite.com/tags/%E6%90%AC%E8%BF%90/"/>
     
   </entry>
   
